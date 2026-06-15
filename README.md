@@ -24,6 +24,8 @@
 sudo apt update
 sudo apt install python3-dev portaudio19-dev build-essential
 
+---
+
 ## Как запустить
 
 ### Шаг 2: Использование
