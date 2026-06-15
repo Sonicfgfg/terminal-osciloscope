@@ -29,6 +29,7 @@ sudo apt install python3-dev portaudio19-dev build-essential
 ## Как запустить
 
 ### Шаг 2: Использование
+
 ```bash
 cd terminal-scope
 python cava_scope_line.py
